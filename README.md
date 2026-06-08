@@ -63,7 +63,6 @@ The dashboard provides insights into sales performance, customer behavior, produ
 * Power BI Desktop
 * DAX (Data Analysis Expressions)
 * Power Query
-* Microsoft Excel
 * Kaggle Dataset
 
 ---
@@ -90,8 +89,6 @@ The dataset contains information related to:
 | Revenue     | Total sales generated         |
 | Orders      | Number of customer orders     |
 | Returns     | Number of returned orders     |
-| AOV         | Average Order Value           |
-| Return Rate | Percentage of returned orders |
 | Customers   | Total unique customers        |
 
 ---
