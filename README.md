@@ -99,7 +99,7 @@ Add dashboard screenshots here.
 
 Example:
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview]([images/dashboard-overview.png](https://github.com/Sanjay07rwt/D2C-Skincare-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png))
 
 ---
 
