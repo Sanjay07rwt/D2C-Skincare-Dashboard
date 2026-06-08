@@ -1,4 +1,3 @@
-# D2C-Skincare-Dashboard
 # 🌿 D2C Skincare Analytics Dashboard
 
 ## 📌 Project Overview
@@ -27,8 +26,6 @@ The dashboard provides insights into sales performance, customer behavior, produ
 * Total Revenue
 * Total Orders
 * Total Returns
-* Return Rate
-* Average Order Value (AOV)
 * Total Customers
 
 ### Sales Analysis
@@ -40,7 +37,6 @@ The dashboard provides insights into sales performance, customer behavior, produ
 
 ### Customer Analysis
 
-* New vs Returning Customers
 * Customer Demographics
 * Regional Customer Distribution
 
@@ -95,7 +91,6 @@ The dataset contains information related to:
 
 ## 📷 Dashboard Preview
 
-Add dashboard screenshots here.
 
 Example:
 
@@ -148,9 +143,9 @@ D2C-Skincare-Dashboard/
 
 ## 👨‍💻 Author
 
-Sam
+Sanjay Singh Rawat
 
-Aspiring Data Analyst | Power BI Developer | Business Analytics Enthusiast
+Aspiring Data Analyst | Power BI Developer Enthusiast
 
 ---
 
